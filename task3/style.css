@@ -1,0 +1,28 @@
+
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #83AFA6;
+  font-family:  'Work Sans', sans-serif;;
+}
+
+.row{
+  margin: 8px 0;
+}
+
+.enter-field{
+  font-size: 14px;
+  margin: 3px;
+  padding: 15px 55px;
+  border: 2px solid #D3A284;
+  border-radius: 3px;
+}
+
+.button{
+  padding: 20px;
+  margin: 0 3px;
+  border-radius: 50%;
+  border: 2px solid #D3A284;
+  cursor: pointer;
+  width: 66px;
+}
